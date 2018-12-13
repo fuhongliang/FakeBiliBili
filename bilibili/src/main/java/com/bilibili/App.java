@@ -29,6 +29,9 @@ import me.yokeyword.fragmentation.BuildConfig;
 import me.yokeyword.fragmentation.Fragmentation;
 import me.yokeyword.fragmentation.helper.ExceptionHandler;
 
+/**
+ * @author fuhongliang
+ */
 public class App extends Application {
 
     private static App sInstance;
